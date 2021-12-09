@@ -16,3 +16,4 @@
 
 package com.example.android.trackmysleepquality.database
 
+// todo step 1. create SleepNight entity with Room annotations
